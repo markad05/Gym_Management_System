@@ -1,0 +1,17 @@
+--- Gym Management System Demo ---
+
+1. Add Member
+2. View Members
+3. Add Trainer
+4. Exit
+
+> Option: 1
+Enter Member Name: John Doe
+Membership Type: Monthly
+
+Member added successfully!
+
+> Option: 2
+
+--- Members List ---
+ID: 1 | Name: Mekrez Demeke | Type: Monthly
